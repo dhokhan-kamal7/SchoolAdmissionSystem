@@ -1,0 +1,20 @@
+# .NET
+**/bin/
+**/obj/
+.vs/
+*.user
+
+# Node.js
+**/node_modules/
+**/dist/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# IDE and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
